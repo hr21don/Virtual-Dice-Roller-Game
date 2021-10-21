@@ -1,0 +1,57 @@
+/*
+*  CSS TABLE OF CONTENTS
+*  1.0 - Containers
+*  2.0- HTML Sections
+      2.1- Pre Content- Body Section
+      2.2- Pre Content- Headers Section
+      2.3- Pre Content- Paragraph section
+      2.4- Pre Content- Img section
+      2.5- Pre Content- footer section
+*/
+
+  /* Containers */
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+.dice {
+  text-align: center;
+  padding: 3%;
+  display: inline-block;
+}
+
+/* Body Section */
+body {
+  background-color: #1C0C5B;
+}
+
+/* Headers Section */
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #77D970;
+}
+
+/* Paragraph section */
+p {
+  font-size: 2rem;
+  color: #CDF2CA;
+  font-family: 'Indie Flower', cursive;
+}
+
+/* Img section */
+img {
+  width: 80%;
+}
+
+/* footer section */
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
