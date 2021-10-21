@@ -61,7 +61,7 @@ document.querySelectorAll("img")[4].setAttribute("src", randomdiceimagesrc5);
 
 // conditions for player 1
 if (randomnumber1 > randomnumber2) {
-  document.querySelector("h1").innerHTML = "🏆 Play 1 Wins!";
+  document.querySelector("h1").innerHTML = "🏆 Player 1 Wins!";
 }
 // conditions for player 2
 else if (randomnumber2 > randomnumber1) {
